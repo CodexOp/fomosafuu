@@ -1,0 +1,384 @@
+.btn{
+    background:#98C739 !important;
+    border:#98C739 !important;
+    z-index: 10;
+}
+
+
+body{
+    width: 100%;
+    position: relative;
+    overflow-x: hidden;
+}
+
+.top_icon{
+    display: flex;
+}
+
+.footer_info{
+    margin-top: 20px !important;
+    padding-left: 40px !important;
+    color: rgba(255,255,255,0.9);
+}
+
+	
+.topic{
+    text-align: left;
+}
+
+.topic_center{
+    text-align: center;
+}
+
+.advantages_part, .feature-part, .faq-part, .team-part{
+    background: #EEF0F2;
+}
+
+.black{
+    background: rgba(0,0,0,0.8) !important;
+    color: #fff;
+    }
+    
+
+    .footer-link ul li a{
+        color: #fff !important;
+    }
+
+.dapp_button{
+    background-color: transparent !important;
+    color: #000 !important;
+    border: 2px solid #98C739 !important;
+    margin-left: 10px !important;
+}
+
+.sub-heading{
+    display: none;
+}
+
+.new_color{
+    color: #61CE70;
+}
+
+.no_color{
+    color: #F96D64;
+}
+
+
+.top_icon li{
+    padding: 20px;
+}
+
+
+.top_icon li a i{
+    font-size: 20px;
+}
+
+.audit_button{
+    margin-top: 20px;
+}
+
+.copy_button{
+    width: 15%;
+    border: none;
+    background: #98C739;
+    color:#fff;
+}
+
+.banner-heading span{
+    color: #98C739 !important;
+}
+
+.contract{
+    width: 500px !important;
+    height: 50px;
+    cursor: pointer;
+    padding: auto;
+    text-align: center;
+}
+
+
+.footer-icon ul li {
+    padding: 0 30px !important;
+}
+
+#copy_address{
+    display: none;
+    text-align: center;
+    color: #010101;
+    font-size: 18px;
+}
+
+#particles-js {
+    width: 100%;
+    height: auto !important;
+    position: relative;
+
+
+}
+
+.lightskyblue{
+    background: url('../images/try.jpg')!important;
+}
+
+
+
+.contract_box{
+width: 100%;
+display: flex;
+justify-content: center;
+margin-bottom: 30px;
+}
+
+
+.tokenomics{
+    display: flex;
+    justify-content: space-around;
+}
+
+.outer_tokenomics{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+.announced{
+    margin-bottom: 30px !;
+}
+
+.image_buy img{
+    width: 150px;
+    
+}
+
+.image_buy img{
+    transition: all 0.2s ease-in-out;
+
+}
+
+.graph_donut, .faq-part{
+        padding: 40px 20px !important;
+
+}
+
+.particles-js-canvas-el{
+   position: absolute;
+   top:0;
+   z-index: -1;
+}
+
+.color_white{
+   color: #fff !important;
+}
+
+.btn_token{
+    margin-top:30px;
+    margin-left: 10px;
+}
+
+.btn_presale{
+    margin-top:30px;
+
+}
+
+body{
+    width: 80%;
+}
+
+
+.check_tokenomics{
+    max-width: 500px;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+
+}
+
+.image_buy img:hover{
+ width: 170px;
+ 
+}
+
+.check_tokenomics li{
+    font-size: 20px;
+
+}
+
+.image_buy h2{
+    font-size: 26px;
+}
+
+.image_buy p{
+    font-size: 20px;
+    color: #010101;
+    margin-bottom: 40px;
+}
+
+.check_tokenomics li{
+    text-align: left;
+}
+
+.footer-icon ul li a{
+    background: none !important;
+    
+}
+
+.footer-icon ul li a i{
+    font-size: 40px;
+    background: none !important;
+    
+}
+
+.ico-apps{
+    padding:0 20px;
+}
+
+.work-part, .timeline, .feature-part{
+    padding: 0 20px;
+}
+
+.footer{
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+
+}
+
+.real_footer{
+    display: block;
+}
+
+.footer-icon{
+    justify-content: center;
+    display: flex;
+    width: 100%;
+}
+
+
+.footer-icon ul li a{
+    color:rgba(0,0,0,0.8) !important;
+}
+
+.footer-icon ul li a:hover{
+    color:#98C739 !important;
+}
+
+
+
+
+.footer_logo{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+
+}
+
+.bg-pattern .container{
+    justify-content: center;
+    display: flex;
+}
+
+.ico-apps {
+    background: #fff;
+}
+
+.donut, .listtopie-initialized{
+    color: #fff !important;
+}
+
+.timeline{
+    display: none;
+}
+
+
+
+@media(max-width:700px){
+    .footer{
+        display: flex;
+        flex-direction: column;
+        align-items: baseline;
+        justify-content: center;
+        margin-top: 40px;
+    }
+
+    .contract{
+        width: 450px !important;
+        height: 50px;
+        cursor: pointer;
+        padding: auto;
+        text-align: center;
+    }
+
+    .footer-link{
+        padding-left: 40px;
+    }
+    
+.footer_logo{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+
+}
+
+.icons_foot{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.subscribe{
+    width:100%;
+}
+
+
+.footer-icon{
+    margin:0 !important;
+    justify-content: center;
+    display: flex;
+    width: 100%;
+}
+
+
+.tokenomics{
+flex-direction: column;
+}
+
+}
+
+
+@media(max-width:500px){
+    .contract{
+        width: 200px !important;
+        height: 50px;
+        cursor: pointer;
+        padding: auto;
+        text-align: center;
+    }
+
+    .copy_button{
+        width: 100px;
+        
+    }
+
+    .footer-icon ul li a i{
+        font-size: 25px;
+        background: none !important;
+        
+    }
+
+    
+
+    
+}
+
+
+@media(max-width:660px) {
+    .footer-icon ul li {
+        padding: 0 10px !important;
+    }
+}
